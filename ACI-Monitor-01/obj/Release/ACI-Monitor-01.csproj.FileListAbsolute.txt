@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\ACI-Monitor-01.exe.config
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\ACI-Monitor-01.exe
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\ACI-Monitor-01.pdb
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\RestSharp.dll
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\SnmpSharpNet.dll
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI_Monitor_01.Main.resources
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI_Monitor_01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI_Monitor_01.Shutdown.resources
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI-Monitor-01.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI-Monitor-01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI-Monitor-01.exe
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI-Monitor-01.pdb
+C:\Users\Administrator\Desktop\ACI-Monitor-01\ACI-Monitor-01\obj\Release\ACI-Monitor-01.csprojResolveAssemblyReference.cache
